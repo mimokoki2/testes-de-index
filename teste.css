@@ -1,0 +1,62 @@
+
+body
+{
+  margin: 1em;
+
+background-image:linear-gradient(90deg, #e1c9a5, white);
+	
+}
+#main
+{
+	max-width: 600px;
+	margin: 0 auto;
+}
+.menu
+ {
+  display: inline-block;
+  padding: 10px;
+  	color: black;
+	font-family: consolas;
+	font-size: 30px;
+  border: solid;
+}
+.menuzin
+{
+	top: 1em;
+	position: relative;
+	width: 50%;
+	border: solid;
+	padding: 3px;
+	height: 50em;
+	border-radius: 10px;
+	background-image: url(cup.png);
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.menuzin2
+{
+	padding: 6%;
+	position: inline-block;
+	float: left;
+
+	width: 20%;
+	border:solid;
+}
+a{
+	color: black;
+	font-family: consolas;
+	font-size: 30px;
+}
+img
+{
+	position: absolute;
+}
+#exibe
+{
+	color: none;
+	text-decoration: none;
+	background-color: blue;
+	padding: 1px;
+
+}
